@@ -1,0 +1,7 @@
+local keys = {
+    "2aBcDeFgHiJkLmNoPqRsTuVwXyZ",
+    "4aBcDeFgHiJkLmNoPqRsTuVwXyZ",
+    "6aBcDeFgHiJkLmNoPqRsTuVwXyZ",
+    "8aBcDeFgHiJkLmNoPqRsTuVwXyZ",
+    "0aBcDeFgHiJkLmNoPqRsTuVwXyZ"
+}
